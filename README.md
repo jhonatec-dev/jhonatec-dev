@@ -19,3 +19,9 @@ Be my guest to send feedbacks and participate as well!
   - Send a message to hello@jhonatec.dev
 - ⚡ Fun fact: 
   - I can create dad jokes really fast 🥷
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatec-dev&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatec-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
