@@ -1,10 +1,18 @@
-import { Component } from 'react'
+import { Component } from 'react';
+import { Route, Routes } from 'react-router-dom';
+import Home from './pages/Home';
+import NotFound from './pages/NotFound';
 
 export default class App extends Component {
   render() {
     return (
-      <div>Soon!</div>
-    )
+      <div>
+        <h1>App</h1>
+        <Routes>
+          <Route exact path="/" Component={ Home } />
+          <Route path="*" Component={ NotFound } />
+        </Routes>
+      </div>
+    );
   }
 }
-
