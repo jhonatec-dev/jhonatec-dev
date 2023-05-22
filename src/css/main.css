@@ -3,6 +3,7 @@
   --main-text-color: aliceblue;
   --main-gap: 12px;
   --flex-column: column wrap;
+  --main-padding: 12px;
 }
 
 *{
@@ -19,6 +20,12 @@ body{
 }
 
 /* Home */
+.Home{
+  display: flex;
+  gap: var(--main-gap);
+  flex-wrap: wrap;
+  width: 100vw;
+}
 
 /* Profile */
 .Profile{
@@ -26,9 +33,23 @@ body{
   flex-flow: var(--flex-column);
   gap: var(--main-gap);
   align-items: center;
+  padding: var(--main-padding);
+  max-width: 450px;
+  justify-content: center;
+  border: 1px solid yellow;
+  height: 50vh;
+}
+
+.Profile p {
+  word-wrap: break-word;
 }
 
 .Profile__img{
   width: 150px;
   border-radius: 50%;
+}
+
+/* Animated Logo */
+.AnimatedLogo{
+  border: 1px solid red;
 }
