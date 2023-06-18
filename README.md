@@ -9,7 +9,7 @@ Be my guest to send feedbacks and participate as well!
 - 🔭 I’m currently working on
   -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60px" />
 - 🌱 I’m currently learning  
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60px" />
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px" />
 - 👯 I’m looking to collaborate on 
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60px" />
 - 🤔 I’m looking for help with 
