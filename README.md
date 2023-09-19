@@ -17,7 +17,7 @@ Be my guest to send feedbacks and participate as well!
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="60px" /> 
   
 - 📫 How to reach me: 
-  - Send a message to contato@jhonatec.com
+  - Send a message to hello@jhonatec.dev
 - ⚡ Fun fact: 
   - I can create dad jokes really fast 🥷
 
