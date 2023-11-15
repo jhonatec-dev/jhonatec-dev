@@ -9,8 +9,6 @@ Be my guest to send feedbacks and participate as well!
 - 🔭 I’m currently working on
   -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60px" />
   -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px" />
-- 🌱 I’m currently learning
-  -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60px" />
 
 - 📫 How to reach me: 
   - Send a message to contato@jhonatec.com
