@@ -17,6 +17,6 @@ Be my guest to send feedbacks and participate as well!
 
 <div>
 <a href="https://github.com/jhonatec-dev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatec-dev&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatec-dev&layout=compact&langs_count=5&theme=github_dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatec-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
