@@ -7,8 +7,10 @@ So, here you'll be the most awesome projects in my path to become a Full Stack D
 Be my guest to send feedbacks and participate as well!
 
 - 🔭 I’m currently working on
-  -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60px"/>
+  -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60px" style="filter: drop-shadow(2px 2px 8px rgba(255, 255, 255, 0.6))" />
   -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px"/>
+
+          
 
 - 📫 How to reach me: 
   - Send a message to contato@jhonatec.com
@@ -17,6 +19,6 @@ Be my guest to send feedbacks and participate as well!
 
 <div>
 <a href="https://github.com/jhonatec-dev">
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatec-dev&layout=compact&langs_count=5&theme=github_dark"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatec-dev&layout=compact&langs_count=7&theme=github_dark"/>
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jhonatec-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
